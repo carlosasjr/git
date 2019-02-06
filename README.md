@@ -1,2 +1,0 @@
-# git
-Comandos do git
